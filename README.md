@@ -6,7 +6,7 @@ projects in the open.
 
 ## Currently building
 
-- **[training-data-pipeline](https://github.com/steventreed/training-data-pipeline)** —
+- **[workout-data-pipeline](https://github.com/steventreed/workout-data-pipeline)** —
   Python ingestion pipeline that merges Fitbod weightlifting data and Apple
   Health running data into a personal training database, feeding an AI coach
   layer. The interesting bit: deduping full-history CSV exports with a
