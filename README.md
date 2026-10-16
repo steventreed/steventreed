@@ -1,27 +1,24 @@
 # Steve Reed
 
-Chief of Staff & operator turned builder. 10+ years as chief of staff and
-strategic-projects lead to CEOs — now building a portfolio of data + AI
-projects in the open.
+Chief of Staff, Swiss Army Knife operator, systems builder. 10+ years as chief of staff and
+strategic-projects lead to CEOs. I use this space to share what I'm building and how it works.
 
 ## Currently building
 
 - **[workout-data-pipeline](https://github.com/steventreed/workout-data-pipeline)** —
-  Python ingestion pipeline that merges Fitbod weightlifting data and Apple
-  Health running data into a personal training database, feeding an AI coach
-  layer. The interesting bit: deduping full-history CSV exports with a
-  normalized fingerprint key. Zero dependencies, heavily documented.
-
+Python pipeline combining my Fitbod and Apple Health data in one database. I'm building it to analyze my marathon training and give an AI coach access to my training history without tying the data to one model.
+  
 ## Toolbox
 
-Python · SQL · n8n · AI/LLM workflows · Apple HealthKit
+Python · SQL · n8n · AI/LLM workflows
 
 ## Background
 
-- Chief of Staff to CEO — General Assembly
 - Director of Strategic Projects / Sr PM, Internal Tools — BrainPOP
+- Chief of Staff to CEO — General Assembly
 - Early-stage CPG operations — SmartyPants
-- Google AI Professional · AWS AI Fundamentals
+- Google Certified AI Professional
+- AWS AI Fundamentals
 
 ## Open to
 
