@@ -1,6 +1,6 @@
 # Steve Reed
 
-Chief of Staff, Swiss Army Knife operator, systems builder. 10+ years as chief of staff and
+Chief of Staff, swiss-army-knife operator, systems builder. 10+ years as chief of staff and
 strategic-projects lead to CEOs. I use this space to share what I'm building and how it works.
 
 ## Currently building
