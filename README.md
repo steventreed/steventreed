@@ -17,6 +17,8 @@ Python · SQL · n8n · AI/LLM workflows
 - Director of Strategic Projects / Sr PM, Internal Tools — BrainPOP ($875M acquisition)
 - Chief of Staff to CEO — General Assembly ($413M acquisition)
 - Early-stage CPG operations — SmartyPants (acquired by Unilever)
+
+## Certifications
 - Google Certified AI Professional
 - AWS AI Fundamentals
 
